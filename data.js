@@ -22,9 +22,9 @@ module.exports = {
     
     contractaddress :  '0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A', //contract address of coin
     
-    privateKey : 'f52d9fb7f04e64d93d825b8798c5ec897060efc3ec158187bc159131a8a6d1d4', //private key of wallet
+    privateKey : 'f2cb6e9c86b28ec466cdefb304cd39a1c1e0d940218b47c5fd2f997ba6ce51c6', //private key of wallet
     
-    address : '0xEdA7bb3AcE6f8A70FaeB0b69D4Bfb9098b8ad6d9',//polygon address of wallet
+    address : '0x7046242155cb7A5ecAd9De33Cf7C60319aA0c0B2',//polygon address of wallet
     //
     paymentchannel: ['@Devils_Tech'] ,// payment channel username
     
